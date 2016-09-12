@@ -9,7 +9,8 @@
 {
   "username": "test",
   "password": "12345",
-  "password_confirmation": "12345"
+  "password_confirmation": "12345",
+  "uid": "test"
 }
 ```
 
@@ -32,4 +33,4 @@
 | Client        | jPFa_CiEhKwyJ12Aerdb8g |
 | Expiry        | 1471717728             |
 | Token-Type    | Bearer                 |
-| Uid           | test                  |
+| Uid           | test                   |
