@@ -24,7 +24,6 @@
 ```
 
 ### GET /test
-* http://localhost:3000/test
 * Header:
 
 | key           | value                  |
