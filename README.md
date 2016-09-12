@@ -3,6 +3,8 @@
 ### $ rails server
 * http://localhost:3000
 
+
+## Examples:
 ### POST /users
 * body: 
 ```js
